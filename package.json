@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kevinsteinhagen/NG_Website/issues"
   },
-  "homepage": "https://github.com/kevinsteinhagen/NG_Website#readme"
+  "homepage": "https://github.com/kevinsteinhagen/NG_Website#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }

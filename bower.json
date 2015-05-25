@@ -1,0 +1,23 @@
+{
+  "name": "bowerrc",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kevinsteinhagen/NG_Website",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "authors": [
+    "KS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
